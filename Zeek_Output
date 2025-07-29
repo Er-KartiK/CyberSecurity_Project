@@ -1,0 +1,6 @@
+#Run the bash script
+    zeek -r sample_data/malware_traffic.pcap
+conn.log – Connection metadata 
+http.log – HTTP requests 
+dns.log – DNS queries 
+weird.log – Protocol anomalies
