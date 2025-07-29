@@ -1,0 +1,5 @@
+## Suggested Firewall Rules
+
+- Block inbound traffic from suspicious IP: `10.0.2.15`
+- Restrict outbound HTTP requests to domains flagged in logs (e.g. `malicious.com`)
+- Disable unused ports (above 1024) unless explicitly required
