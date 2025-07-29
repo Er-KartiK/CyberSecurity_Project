@@ -1,0 +1,4 @@
+          #Sources                                          #description
+https://wiki.wireshark.org/SampleCaptures ---  Huge collection of protocol-specific PCAPs
+https://isc.sans.edu/diary/29530          ---  Real-world honeypot traffic for Zeek analysis
+https://www.amirootyet.com/post/pcap-analysis-zeek/ --- Beginner-friendly PCAP for Zeek walkthrough
