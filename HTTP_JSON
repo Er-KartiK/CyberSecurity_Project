@@ -1,1 +1,8 @@
-
+{
+  "ts": 1630459167.223,
+  "uid": "C7TBl1Z9kqFzjs1y2",
+  "method": "GET",
+  "host": "malicious.com",
+  "uri": "/payload.exe",
+  "status_code": 200
+}
